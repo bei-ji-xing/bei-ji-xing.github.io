@@ -4,7 +4,8 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: linear-gradient(120deg, #3498db, #8e44ad);
+    background-image: linear-gradient(120deg, #9ad6ff, #46b5ff);
+    /*120deg, #3498db, #8e44ad);*/
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -112,7 +113,7 @@ a {
     top: 100%;
     width: 0%;
     height: 2px;
-    background-image: linear-gradient(120deg, #3498db, #8e44ad);
+    background-image: linear-gradient(120deg, #9ad6ff, #46b5ff);
     transition: .5s;
 }
 
@@ -159,7 +160,7 @@ button.ghost {
 }
 
 .form-container button {
-    background: linear-gradient(120deg, #3498db, #8e44ad);
+    background: linear-gradient(120deg, #9ad6ff, #46b5ff);
     border: none;
     background-size: 200%;
     color: #fff;
@@ -204,7 +205,7 @@ button.ghost {
 }
 
 .overlay {
-    background-image: linear-gradient(120deg, #3498db, #8e44ad);
+    background-image: linear-gradient(120deg, #9ad6ff, #46b5ff);
     color: #fff;
     position: relative;
     left: -100%;
